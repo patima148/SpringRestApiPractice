@@ -1,0 +1,6 @@
+com/ascendcorp/ctaworkshop/hotelchiangmai/Service/RoomService.class
+com/ascendcorp/ctaworkshop/hotelchiangmai/Controller/RoomController.class
+com/ascendcorp/ctaworkshop/hotelchiangmai/Controller/HelloWordController.class
+com/ascendcorp/ctaworkshop/hotelchiangmai/Entity/Room.class
+com/ascendcorp/ctaworkshop/hotelchiangmai/Repository/RoomRepository.class
+com/ascendcorp/ctaworkshop/hotelchiangmai/HotelChiangMaiApplication.class

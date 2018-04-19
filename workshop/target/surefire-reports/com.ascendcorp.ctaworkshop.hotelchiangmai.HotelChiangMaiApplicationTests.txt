@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ascendcorp.ctaworkshop.hotelchiangmai.HotelChiangMaiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.474 sec - in com.ascendcorp.ctaworkshop.hotelchiangmai.HotelChiangMaiApplicationTests
